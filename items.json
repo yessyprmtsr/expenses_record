@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "jam": "03:15",
+      "tanggal": "18 February 2021",
+      "nama": "Ayam Tangkap",
+      "pengeluaraan": 77249
+    },
+    {
+      "jam": "03:15",
+      "tanggal": "18 February 2021",
+      "nama": "Mie Rebus",
+      "pengeluaraan": 32154
+    },
+    {
+      "jam": "00:20",
+      "tanggal": "17 February 2021",
+      "nama": "Soto Kuning",
+      "pengeluaraan": 34992
+    },
+    {
+      "jam": "05:59",
+      "tanggal": "17 February 2021",
+      "nama": "Ayam Geprek",
+      "pengeluaraan": 37674
+    },
+    {
+      "jam": "05:45",
+      "tanggal": "16 February 2021",
+      "nama": "Otak-otak",
+      "pengeluaraan": 11971
+    },
+    {
+      "id": "25989536b0f",
+      "jam": "05:12",
+      "tanggal": "06 August 2022",
+      "nama": "Pensil",
+      "pengeluaraan": 12000
+    },
+    {
+      "id": "5989536b0fa",
+      "jam": "05:12",
+      "tanggal": "06 August 2022",
+      "nama": "Steak",
+      "pengeluaraan": 1000
+    },
+    {
+      "id": "989536b0faa",
+      "jam": "05:13",
+      "tanggal": "06 August 2022",
+      "nama": "Roti",
+      "pengeluaraan": 10000
+    },
+    {
+      "id": "577274fe6c8",
+      "jam": "05:16",
+      "tanggal": "06 August 2022",
+      "nama": "Ice cream",
+      "pengeluaraan": 3000
+    }
+  ]
+}
